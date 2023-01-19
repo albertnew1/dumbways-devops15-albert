@@ -1,4 +1,5 @@
 1.	Menjalankan aplikasi Webserver (nginx/apache2)
+
 ![image](https://user-images.githubusercontent.com/45737074/213400134-acfa561b-b574-4cd8-ae4e-5398c87d9b92.png)
 
 ![image](https://user-images.githubusercontent.com/45737074/213400141-1d970792-fdd9-48a1-a0b2-700c81f83309.png)
@@ -29,7 +30,7 @@ Python
 
 3.	Gunakan localtunnel untuk menjalankan "Hello world!" nodejs
 
-[image](https://user-images.githubusercontent.com/45737074/213400375-5a433a9e-95bd-45cc-a452-48f3001e2c63.png)
+![image](https://user-images.githubusercontent.com/45737074/213400375-5a433a9e-95bd-45cc-a452-48f3001e2c63.png)
 
 ![image](https://user-images.githubusercontent.com/45737074/213400393-8d9d3f4f-0122-4152-9734-291047896726.png)
 
