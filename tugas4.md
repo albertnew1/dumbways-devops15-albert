@@ -10,6 +10,7 @@ https://github.com/albertnew1/dumbways-devops15-albert
 
  
 3. Hubungkan ssh public key ke akun github
+  
   ![image](https://user-images.githubusercontent.com/45737074/213401355-5ad69ac6-96a0-4c82-99f6-ce66c75adc79.png)
 
   ![image](https://user-images.githubusercontent.com/45737074/213401383-0d94ba33-9a31-445f-960b-1646855c732e.png)
