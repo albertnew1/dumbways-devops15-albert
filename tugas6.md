@@ -28,7 +28,6 @@ Aplikasi yang menerima request HTTP/S dari client dan memberikan layanan berupa 
   - jalankan nginx 
   - buat konfigurasi reverse proxy dengan domain (gunakan nama kalian) mengarah ke app di VM1
   
-     
   - buat konfigurasi load balance antara VM1 dan VM2
    
 Note : kalau hanya bisa menjalankan 1 VM, kalian cukup jalankan task no 3 & 4 di 1 VM tersebut
