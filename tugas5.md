@@ -25,8 +25,8 @@ Command prompt berbasis CLI yang segala aktivitas pengelolaan yang berbasis teks
 
     ![image](https://user-images.githubusercontent.com/45737074/213402041-7e06a6eb-92ba-41ea-beed-26cdb7fcf8ae.png)
     
-    ![image](https://user-images.githubusercontent.com/45737074/213402064-e3dca652-6cf2-4c80-bae6-85a7d6ead739.png)
-    
+    ![image](https://user-images.githubusercontent.com/45737074/213547711-3f49c6ff-8823-4fa7-a7f6-80ce73585e47.png)
+
     ![image](https://user-images.githubusercontent.com/45737074/213402084-928a992c-5711-4ea0-a31f-39d6595bac6a.png)
     
     ![image](https://user-images.githubusercontent.com/45737074/213402094-ded41c44-eb9a-46f6-99d6-3aa65539d5e7.png)
