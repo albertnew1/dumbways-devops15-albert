@@ -23,6 +23,8 @@ Command prompt berbasis CLI yang segala aktivitas pengelolaan yang berbasis teks
     - contoh penggunaan cat, grep, echo & sort
     
     ![image](https://user-images.githubusercontent.com/45737074/213402020-276d1826-6004-4db0-aad3-989af75c3fdc.png)
+    
+    ![image](https://user-images.githubusercontent.com/45737074/213607047-9b9e7744-ab8f-4f0a-9ba3-6af6cec7bb4f.png)
 
     ![image](https://user-images.githubusercontent.com/45737074/213402041-7e06a6eb-92ba-41ea-beed-26cdb7fcf8ae.png)
     
@@ -39,6 +41,9 @@ Command prompt berbasis CLI yang segala aktivitas pengelolaan yang berbasis teks
     ![image](https://user-images.githubusercontent.com/45737074/213402145-d2307b5e-0f48-4791-9fd8-5c1eced73d24.png)
     
     - mengganti text 'Dumbways' ke 'Bootcamp'
+    
+    ![image](https://user-images.githubusercontent.com/45737074/213607097-ff150484-a0c2-43d3-87ab-290bd6721fbd.png)
+
 
 5. Gunakan nmon untuk tampilkan CPU usage, RAM usage, Disk dan Resources OS & Proc
 C,m,d,r,
