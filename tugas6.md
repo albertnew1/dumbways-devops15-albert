@@ -1,6 +1,7 @@
 Task : Web Server & Load Balancing
 
 1. Definisi Web Server
+
 Aplikasi yang menerima request HTTP/S dari client dan memberikan layanan berupa data sebagai responsnya.
 
 2. Jalankan 2 VM (Optional)
