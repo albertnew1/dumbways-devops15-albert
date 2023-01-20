@@ -23,6 +23,8 @@ Cp= untuk copy file, penggunaan cp <nama file> <direktori>
 
 Chown = mengganti kepemilikan file, penggunaan <pemilik>:<group> <nama file>
 
+  
+  
 Challenge :
 Install node version manager dan jalankan nginx di Localtunnel
   
