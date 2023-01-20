@@ -1,7 +1,9 @@
 1.	Definisi DevOps?
+
 DevOps merupakan kombinasi dari filosofi kultur/budaya, sekumpulan praktik, dan rangkaian alat (tools) yang dapat meningkatkan kemampuan organisasi/perusahaan untuk menyajikan (deliver) aplikasi atau perangkat lunak secara cepat artinya, perusahaan mampu mengembangkan dan memperbaiki produk mereka dengan lebih cepat ketimbang menggunakan model pengembangan aplikasi dan proses manajemen infrastruktur yang tradisional
 
 2.	sebutkan lifecycle DevOps (Continuous ...) dan Jelaskan definisi-definisinya!
+
 Continuous integration = praktik dimana tim developer akan secara rutin menggabungkan pembaruan kode ke dalam repository dengan tujuan untuk menangani bug lebih cepat, meningkatkan kualitas software, dan mengurangi waktu, yang diperlukan untuk validasi.
 
 Continuous delivery/development = memastikan bahwa code selalu dalam status deployable yang artinya setiap perubahan yang ada di dalam kode seperti penambahan fitur, perbaikan bug, perubahan konfigurasi, atau yang lain, akan selalu siap untuk diterapkan ke dalam production environment atau bahkan ke tangan user dengan cepat, aman, dan berkelanjutan.
