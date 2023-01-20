@@ -1,6 +1,7 @@
 Task : Manage Server with Terminal
 
 1. Apa itu terminal
+
 Command prompt berbasis CLI yang segala aktivitas pengelolaan yang berbasis teks
 
 2. BASH script untuk update dan upgrade server, lalu install nginx/apache2 (salah satu)
